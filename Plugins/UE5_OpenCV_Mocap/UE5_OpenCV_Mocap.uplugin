@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "UE5_OpenCV_Mocap",
+	"Description": "Uses OpenCV to send motion capture data to Unreal Engine 5.",
+	"Category": "Other",
+	"CreatedBy": "Katznboyz",
+	"CreatedByURL": "https://github.com/katznboyz1",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": true,
+	"Installed": false
+}
